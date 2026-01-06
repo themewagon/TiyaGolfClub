@@ -17,7 +17,7 @@ https://github.com/themewagon/Tiya.git
 
 ## Author
 
-Design and code are completely written by Templates Jungle's design and development team.  
+Design and code are completely written by TemplateMo's design and development team.  
 
 
 ## License
