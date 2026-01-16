@@ -12,7 +12,7 @@
 
 Clone from GitHub 
 ```
-https://github.com/themewagon/Tiya.git
+https://github.com/themewagon/TiyaGolfClub.git
 ```
 
 ## Author
